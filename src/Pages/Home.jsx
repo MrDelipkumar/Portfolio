@@ -23,7 +23,7 @@ function Home() {
       <div className='flex flex-col justify-center items-center px-5 py-5'>
       <h1 className="font-Logo sm:text-[40px] bg-gradient-to-r from-purple-500 via-pink-500 bg-yellow-500 bg-clip-text text-transparent">Hi , I am Delipkumar</h1>
       <h1 className='font-bold sm:text-[28px] pt-5 text-[#C92FFF]'>Frontend Developer</h1>
-      <p className='sm:text-[26px] font-medium text-[15px] pt-5 text-center'>This is My official Portfolio website to showes all <br/>
+      <p className='sm:text-[26px] font-medium text-[12px] pt-5 text-center'>This is My official Portfolio website to showes all <br/>
       Details and  web development</p>
       <div className='flex items-center gap-5 sm:pt-10 pt-5'>
       <div className='bg-white rounded'><a href={config.social.Mail} target='_blank'><img className=' sm:w-[35px] sm:h-[35px] w-[30px] h-[30px]' src={Mail} alt="Mail"/></a></div>
