@@ -5,11 +5,12 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        'Logo': ['Lexend Giga','sans-serif'],
+      }
+    },
   },
   plugins: [],
 }
 
-// fontFamily:{
-//   'Logo': ['Lexend Giga','sans-serif'],
-// }
